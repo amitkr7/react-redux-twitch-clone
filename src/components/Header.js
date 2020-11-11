@@ -5,11 +5,14 @@ const Header = () => {
   return (
     <div className='ui secondary pointing menu'>
       <Link to='/' className='ui item'>
-        Streams
+        Streamlet
       </Link>
       <div className='right menu'>
         <Link to='/' className='ui item'>
           Streamer
+        </Link>
+        <Link to='/' className='ui item'>
+          Streams
         </Link>
       </div>
     </div>

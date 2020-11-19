@@ -4,12 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-To Start RTMP server run :
-### `node rtmpserver.js`
-
-To Start Json Server run the below command:
-### `json-server -p 3001 -w db.json`
-
 In the project directory, you can run:
 
 ### `npm start`
